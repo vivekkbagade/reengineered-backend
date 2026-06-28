@@ -1,0 +1,20 @@
+# Ignore docs and assets for code-only graphify runs
+*.md
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.json
+*.html
+node_modules/
+dist/
+build/
+.git/
+.global-skills/
+.agents/
+graphify-out/
+**/node_modules/
+**/dist/
+**/build/
+**/graphify-out/
